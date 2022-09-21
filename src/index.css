@@ -1,0 +1,46 @@
+/* FONTS 
+
+*/
+
+
+
+body {
+    
+}
+
+
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+
+a {
+    transition: all 350ms ease-in-out;
+    font-weight: 400;
+    text-decoration: unset;
+}
+
+
+
+@media only screen and (max-width:1399px){
+    
+}
+@media only screen and (max-width:1199px){
+    
+}
+
+@media only screen and (max-width:767px){
+   
+}
+
+
+@media only screen and (max-width:550px){
+   
+    
+}
+
+@media only screen and (max-width:480px){
+  
+}
