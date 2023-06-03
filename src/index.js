@@ -11,7 +11,6 @@ import { Container, Row, Col } from "react-bootstrap";
 
 // IMPORT PAGES
 import Aboutus from "./Views/Aboutus/Index";
-import ScrollToTop from "./Views/ScrollToTop/Index";
 
 
 
@@ -24,8 +23,6 @@ function Main() {
       <header className="pageheader">
         <Header />
       </header>
-      <ScrollToTop />
-      {/* <App /> */}
       <Routes>
         <Route path="/" element={<App />} className="ppp" />
         <Route path="/aboutus" element={<Aboutus />} />
