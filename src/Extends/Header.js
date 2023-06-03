@@ -7,10 +7,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { brands, solid, regular } from '@fortawesome/fontawesome-svg-core/import.macro';
 
 
-// LOGO
-// import sitelogo from '../Assets/Logo.png';
-import ScrollToTop from '../Views/ScrollToTop/Index';
-
 
 
 
